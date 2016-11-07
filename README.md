@@ -1,5 +1,7 @@
 My first machine learning adventure courtesy [this tutorial](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
 
+I have some notes in here but the script is also heavily commented. I would suggest going through the tutorial and reference my script if you need help.
+
 ### Setup:
 I made a new virtualenv called scipy and `pip install scipy matplotlib pandas sklearn` which took a while. After I set up the file and tried to do my imports I ran into this error:
 
